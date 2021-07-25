@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"> 
+  <title>Document</title> 
+ </head> 
+ <body> 
+  <table border="1px"> 
+   <thead> 
+    <tr> 
+     <th>No</th> 
+     <th>Adno</th> 
+     <th>Name</th> 
+    </tr> 
+   </thead> 
+   <tbody> 
+    <tr> 
+     <td>1</td> 
+     <td>539</td> 
+     <td>Abdullah hashim</td> 
+    </tr> 
+    <tr> 
+     <td>2</td> 
+     <td>552</td> 
+     <td>Swabeeh</td> 
+    </tr> 
+    <tr> 
+     <td>3</td> 
+     <td>558</td> 
+     <td>Lubab</td> 
+    </tr> 
+    <tr> 
+     <td>4</td> 
+     <td>562</td> 
+     <td>Aadil shahid</td> 
+    </tr> 
+    <tr> 
+     <td>5</td> 
+     <td>567</td> 
+     <td>Fawas mv</td> 
+    </tr> 
+    <tr> 
+     <td>6</td> 
+     <td>569</td> 
+     <td>Nasik</td> 
+    </tr> 
+    <tr> 
+     <td>7</td> 
+     <td>573</td> 
+     <td>Nafi ak</td> 
+    </tr> 
+    <tr> 
+     <td>8</td> 
+     <td>574</td> 
+     <td>Midlaj kv</td> 
+    </tr> 
+    <tr> 
+     <td>9</td> 
+     <td>578</td> 
+     <td>Rinshad u</td> 
+    </tr> 
+    <tr> 
+     <td>10</td> 
+     <td>583</td> 
+     <td>Yasir</td> 
+    </tr> 
+    <tr> 
+     <td>11</td> 
+     <td>585</td> 
+     <td>Nafi p</td> 
+    </tr> 
+    <tr> 
+     <td>12</td> 
+     <td>586</td> 
+     <td>Muzammil</td> 
+    </tr> 
+    <tr> 
+     <td>13</td> 
+     <td>587</td> 
+     <td>Ahammed fais</td> 
+    </tr> 
+    <tr> 
+     <td>14</td> 
+     <td>589</td> 
+     <td>Shahusain</td> 
+    </tr> 
+    <tr> 
+     <td>15</td> 
+     <td>591</td> 
+     <td>Basim</td> 
+    </tr> 
+    <tr> 
+     <td>16</td> 
+     <td>594</td> 
+     <td>Hamzath</td> 
+    </tr> 
+    <tr> 
+     <td>17</td> 
+     <td>595</td> 
+     <td>Fazlu rahman</td> 
+    </tr> 
+    <tr> 
+     <td>18</td> 
+     <td>596</td> 
+     <td>Marvan ashraf</td> 
+    </tr> 
+    <tr> 
+     <td>19</td> 
+     <td>597</td> 
+     <td>Fayis</td> 
+    </tr> 
+    <tr> 
+     <td>20</td> 
+     <td>598</td> 
+     <td>Abdullah bushair</td> 
+    </tr> 
+    <tr> 
+     <td>21</td> 
+     <td>599</td> 
+     <td>Abdurahman</td> 
+    </tr> 
+    <tr> 
+     <td>22</td> 
+     <td>600</td> 
+     <td>Rinshad pt</td> 
+    </tr> 
+    <tr> 
+     <td>23</td> 
+     <td>603</td> 
+     <td>Shibly</td> 
+    </tr> 
+    <tr> 
+     <td>24</td> 
+     <td>604</td> 
+     <td>none</td> 
+    </tr> 
+    <tr> 
+     <td>25</td> 
+     <td>607</td> 
+     <td>Anees abdullah</td> 
+    </tr> 
+    <tr> 
+     <td>26</td> 
+     <td>608</td> 
+     <td>Rashid</td> 
+    </tr> 
+    <tr> 
+     <td>27</td> 
+     <td>609</td> 
+     <td>Nabeel</td> 
+    </tr> 
+    <tr> 
+     <td>28</td> 
+     <td>611</td> 
+     <td>Asif sinan</td> 
+    </tr> 
+    <tr> 
+     <td>29</td> 
+     <td>612</td> 
+     <td>Junaid</td> 
+    </tr> 
+    <tr> 
+     <td>30</td> 
+     <td>613</td> 
+     <td>Ashiq</td> 
+    </tr> 
+    <tr> 
+     <td>31</td> 
+     <td>614</td> 
+     <td>Midlaj ck</td> 
+    </tr> 
+    <tr> 
+     <td>32</td> 
+     <td>618</td> 
+     <td>Afsal</td> 
+    </tr> 
+    <tr> 
+     <td>33</td> 
+     <td>702</td> 
+     <td>Irfan</td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </body>
+</html>
